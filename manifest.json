@@ -1,0 +1,19 @@
+{
+  "name": "DiagramGenerator",
+  "id": "1332098696744552597",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0",
+  "networkAccess": {
+    "allowedDomains": ["https://api.planetscale.com"],
+    "reasoning": "MyPlugin queries planetScale API.",
+    "devAllowedDomains": []
+  }
+ 
+}
