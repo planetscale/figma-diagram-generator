@@ -1,3 +1,13 @@
+# Figma DB Diagram Generator
+
+This Figma plugin can be used to generate database diagrams for your PlanetScale databases.
+For more information, see the [YouTube Video](https://youtu.be/ggqI40wMDkE) on it.
+
+**IMPORTANT NOTE:** Generating diagrams only works in a FigJam file, not in regular Figma design file!
+However, you can generate the diagram in FigJam, and then copy/paste into a regular design file for more detailed editing capabilities.
+
+## Setup
+
 Below are the steps to get your widget running. You can also find instructions at:
 
 https://www.figma.com/widget-docs/setup-guide/
